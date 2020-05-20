@@ -1,3 +1,11 @@
+# Goals of the reports Coronavirus in the world and Coronavirus in Spain
+The reports I saw before doing those reports with Jupyter where static, long and cumbersome. The goals of those reports are:
+<ul>
+    <li>To make interactive reports with controls.</li>
+    <li>To get the report always actualised.</li>
+    <li>To be able to send it with a link.</li>
+</ul>
+
 # Coronavirus in the world
 
 This report uses three datasets that are online:
